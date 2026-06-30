@@ -1,4 +1,4 @@
-My first test GIT REPO
+My first test GIT REPOSITORIES
 	
 <a id="readme-top"></a>
 
